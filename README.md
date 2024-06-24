@@ -8,7 +8,11 @@ Ryoo Min A   </br> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/rrrmina"/>
+<img
+  src="https://render.gitanimals.org/farms/rrrmina"
+  width="465"
+  height="300"
+/>
 </a>
 <!--
 **rrrmina/rrrmina**Ryoo Min A   </br>  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
